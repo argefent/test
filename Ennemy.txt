@@ -1,0 +1,8 @@
+heathcliff,50,50,liberator,50,100
+toto,50,50,lol,5,100
+tototo,50,50,lolol,5,100
+totototo,50,50,lololol,5,100
+tototototo,50,50,lololol,5,100
+totototototo,50,50,lololol,5,100
+tototototototo,50,50,lololol,5,100
+totototototototo,50,50,lololol,5,100
